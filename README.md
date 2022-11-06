@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning full-stack web development
 - 👯 I’m looking to collaborate on my current project the survival game
 - 📫 How to reach me: perezoscar360@gmail.com
-- ⚡ Fun fact: I love to code!
+- ⚡ Fun fact: I am an Astros Fan!
