@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there my name is Oscar Perez-Hernandez👋
 
 - 🔭 I’m currently working on a survival video game
 - 🌱 I’m currently learning full-stack web development
 - 👯 I’m looking to collaborate on my current project the survival game
 - 📫 How to reach me: perezoscar360@gmail.com
 - ⚡ Fun fact: I am an Astros Fan!
-[![trophy](https://github-profile-trophy.vercel.app/LilOTechGodryo-ma)](https://github.com/LilOTechGod/github-profile-trophy)
