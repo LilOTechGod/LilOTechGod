@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on my current project the survival game
 - 📫 How to reach me: perezoscar360@gmail.com
 - ⚡ Fun fact: I am an Astros Fan!
-[![trophy](https://github-profile-trophy.vercel.app/?LilOTechGod=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/LilOTechGodryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
