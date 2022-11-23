@@ -7,4 +7,4 @@
 - 🖇️ LinkedIn: www.linkedin.com/in/oscar-perez~hernandez
 - ⚡ Fun fact: I am an Astros Fan!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LilOTechGod&theme=dark)](https://git.io/streak-stats)
