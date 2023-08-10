@@ -8,3 +8,5 @@
 - ⚡ Fun fact: I am an Astros Fan!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LilOTechGod&theme=dark)](https://git.io/streak-stats)
+
+[![Oscar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilOTechGod&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
